@@ -1,0 +1,12 @@
+<script>
+    let num  = 369 ;
+    let result = 0;
+    while(num > 0)
+  {
+    let last = num%10;
+    num =parseInt(num/10);
+    result += last;
+    
+  }
+  console.log(result);
+</script>
