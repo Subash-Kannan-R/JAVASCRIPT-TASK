@@ -1,0 +1,11 @@
+<script>
+    let num  = 369 ;
+    let count = 0;
+    while(num)
+  {
+    num = parseInt( num/10);
+    ++count;
+  }
+  console.log(count);
+</script> 
+
