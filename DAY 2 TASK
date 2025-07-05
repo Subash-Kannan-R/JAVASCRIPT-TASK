@@ -1,3 +1,3 @@
-let fahrenheit = prompt("Enter temperature in Fahrenheit:");
+let fahrenheit = prompt("Enter  a temperature in Fahrenheit:");
 let celsius = (fahrenheit - 32) * 5 / 9;
 alert(fahrenheit + "°F is equal to " + celsius.toFixed(2) + "°C");
