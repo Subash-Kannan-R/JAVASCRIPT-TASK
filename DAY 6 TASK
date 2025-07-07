@@ -1,0 +1,7 @@
+(function iife(Name,Age)
+{
+    console.log(Name+" "+Age);
+})("Khan",66);
+
+// iife("Khan",66) This fuction type doesn't work in self invoke function
+
