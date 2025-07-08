@@ -1,4 +1,4 @@
-function hi(a)
+function hi(a) //CURRYING FUNCTION
 {
     return function(b)
    {
