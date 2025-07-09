@@ -1,0 +1,15 @@
+function x (){
+   let a = 6;
+     function y ()
+     {
+        // console.log(a);
+     }
+    function z()
+   {
+        console.log(a)
+     }
+  z();
+ }
+ x();
+
+
