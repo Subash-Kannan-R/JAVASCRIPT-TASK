@@ -1,4 +1,4 @@
-<script>
+<script>  // count the sum
     let num  = 369 ;
     let count = 0;
     while(num)
