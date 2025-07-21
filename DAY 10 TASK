@@ -2,7 +2,7 @@ let body = {
      hair:"block" , eyecolour:"brown" , colour :"white",	
       "type" : ["tow wheler","four wheler",],
 
-     human : function()
+     human1 : function()
      {
 console.log("Entire body");
 
@@ -11,8 +11,8 @@ console.log("Entire body");
      console.log(body.hair);
      console.log(body.eyecolour);
      console.log(body.colour);
-     // body.human();
-     let men = (body.human());
+     // body.human1();
+     let men = (body.human1());
      console.log(men);
      console.log(body["type"][1]);
   
