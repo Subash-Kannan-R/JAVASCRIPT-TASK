@@ -1,4 +1,4 @@
-function x (){
+function X (){
    let a = 6;
      function y ()
      {
@@ -10,6 +10,6 @@ function x (){
      }
   z();
  }
- x();
+ X();
 
 
