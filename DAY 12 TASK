@@ -1,0 +1,11 @@
+function func() {
+    let num1 = [11, 12, 13],
+        num2 = [14, 15, 16],
+        num3 = [17, 18, 19];
+
+    let merged = num1.concat(num2, num3);
+    for (let i = 0; i < merged.length; i++) {
+        console.log("• " + merged[i]);
+    }
+}
+ func();
