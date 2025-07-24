@@ -1,0 +1,8 @@
+function* generater() /* generatot function*/
+    yield "Subash";
+    yield "Kannan";
+}
+let generator = generater();
+console.log(generator.next());
+console.log(generator.next());
+console.log(generator.next());
