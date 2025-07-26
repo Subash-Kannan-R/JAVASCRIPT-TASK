@@ -5,4 +5,4 @@ function* generater() /* generatot function*/
 let generator = generater();
 console.log(generator.next());
 console.log(generator.next());
-console.log(generator.next());
+console.log(generator.value());
