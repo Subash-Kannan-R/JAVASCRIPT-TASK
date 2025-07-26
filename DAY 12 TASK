@@ -1,5 +1,5 @@
 function func() {
-    let num1 = [11, 12, 13],
+    let num1 = [11, 12, ],
         num2 = [14, 15, 16],
         num3 = [17, 18, 19];
 
