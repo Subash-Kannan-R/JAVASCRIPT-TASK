@@ -1,8 +1,9 @@
 function triangularNumber(n) {
-  return (n * (n + 1)) / 2;
+  return (n * (n + 1)) / 2;  
 }
 
-console.log(triangularNumber(0));  // 0
+console.log(triangularNumber(0));  // 0 //(O*(0*+1)/2
+
 console.log(triangularNumber(1));  // 1
 console.log(triangularNumber(5));  // 15
 console.log(triangularNumber(10)); // 55
